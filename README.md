@@ -1,0 +1,1 @@
+# Django-project-for-implementing-CRUD-operations
